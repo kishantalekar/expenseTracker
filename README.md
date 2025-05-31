@@ -2,6 +2,16 @@
 
 ## Demo
 
-https://user-images.githubusercontent.com/your-user-id/expenseTracker/assets/demo_video.mov
+### Watch Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](./assets/demo_video.mov)
+[▶️ Watch Demo Video](./assets/demo_video.mov)
+
+### Download Demo
+
+[📥 Download Demo Video](./assets/demo_video.mov?raw=true)
+
+---
+
+```
+
+```
